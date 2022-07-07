@@ -1,0 +1,32 @@
+Python Problem Set by Anahad Dhaliwal
+
+
+Warm Up Problems (3/3): 
+
+-
+#1 - Create a program which asks for user input. This user input is used to ask for an integer, such that the program outputs the factorial of that given number. 
+
+Example Output: 
+
+User Input = 4 
+Returns -> 24 
+
+HINT #1: For Loops!
+
+-
+#2 - Create a multiplication table of the integer given by the user. (From 1 to 10). 
+
+Example Output: 
+
+User Input = 5 
+
+Returns:
+1 * 5 = 5 
+2 * 5 = 10 
+3 * 5 = 15
+etc... until 10
+
+-
+
+#3 - Calculate the cube of all numbers from 1 to a given number. (FOR LOOP)
+
